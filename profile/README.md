@@ -3,7 +3,7 @@
 
 ### Robot Control
 
-ROS-Robotic Control repositories packages are published in this organization and the primary goal is to display robot location in the world from your devices
+ROS-Robotic Control repositories packages are published in this organization and the primary goal is to display robot information and control robot in an android device or other device without needing a computer
 
 - rosjava_build_tools --> https://application-ui-ux.github.io/rosjava_build_tools/target/site/index.html
 - genjava --> https://application-ui-ux.github.io/genjava/target/site/index.html
