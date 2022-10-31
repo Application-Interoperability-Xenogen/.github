@@ -5,10 +5,13 @@
 
 ROS-Robotic Control repositories packages are published in this organization and the primary goal is to display robot information and control robot in an android device or other device without needing a computer
 
-- rosjava_build_tools --> https://application-ui-ux.github.io/rosjava_build_tools/target/site/index.html
-- genjava --> https://application-ui-ux.github.io/genjava/target/site/index.html
-- rosjava_messages  --> https://application-ui-ux.github.io/rosjava_messages/target/site/index.html
-- rosjava_bootstrap  --> https://application-ui-ux.github.io/rosjava_bootstrap/target/site/index.html
+- rosmobile_build_tools --> https://application-ui-ux.github.io/rosjava_build_tools/target/site/index.html
+- genmobile --> https://application-ui-ux.github.io/genjava/target/site/index.html
+- rosmobile_messages  --> https://application-ui-ux.github.io/rosjava_messages/target/site/index.html
+- rosmobile_bootstrap  --> https://application-ui-ux.github.io/rosjava_bootstrap/target/site/index.html
+- rosmobile_core -->
+- android_core -->
+
 
 ### HealthCare
 
