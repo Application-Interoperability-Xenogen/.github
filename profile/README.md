@@ -24,10 +24,9 @@ ROS-Robotic Control repositories packages are published in this organization and
 
 ### Mobile Apps
 
-
+## 📈 Organization Stats: <a href="https://github.com/Application-UI-UX"> <img src="https://komarev.com/ghpvc/?username=Application-UI-UX&label=Profile+Views&color=2e8b57&style=flat" /></a>
 
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
