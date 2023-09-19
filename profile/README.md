@@ -1,3 +1,13 @@
+# Organization Website
+- https://application-ui-ux/.github.io/
+
+# Information Organization
+- Public Api / Sdk / Packages / Library limited information on usability and installation will be on organization websites
+- Private Application / Architecture / Automation / Api / Sdk / Packages / Library / Designs information on usability, installation will be the company website
+- Public Api / Sdk / Packages / Library full information on usability and installation will be on company website
+
+
+
 ## HealthCare, Robot Control, AR, Applications, Mobile Apps
 
 
@@ -5,10 +15,10 @@
 
 ROS-Robotic Control repositories packages are published in this organization and the primary goal is to display robot information and control robot in an android device or other device without needing a computer
 
-- rosmobile_build_tools --> https://application-ui-ux.github.io/rosmobile_build_tools/target/site/index.html
-- genmobile --> https://application-ui-ux.github.io/genmobile/target/site/index.html
-- rosmobile_messages  --> https://application-ui-ux.github.io/rosmobile_messages/target/site/index.html
-- rosmobile_bootstrap  --> https://application-ui-ux.github.io/rosmobile_bootstrap/target/site/index.html
+- mobile_catkin_modules_build_development_tools  -->  https://application-ui-ux.github.io/mobile_catkin_modules_build_development_tools/target/site/index.html
+- mobile_message_service_generator  -->  https://application-ui-ux.github.io/mobile_message_service_generator/target/site/index.html
+- mobile_message_generation_artifacts_core  -->  https://application-ui-ux.github.io/mobile_message_generation_artifacts_core/target/site/index.html
+- rosmobile_bootstrap  -->  https://application-ui-ux.github.io/rosmobile_bootstrap/target/site/index.html
 - rosmobile_core -->
 - android_core -->
 
