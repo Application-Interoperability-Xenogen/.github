@@ -22,7 +22,7 @@ ROS-Robotic Control repositories packages are published in this organization and
 - mobile_catkin_modules_build_development_tools  -->  https://application-ui-ux.github.io/mobile_catkin_modules_build_development_tools/target/site/index.html
 - mobile_message_service_generator  -->  https://application-ui-ux.github.io/mobile_message_service_generator/target/site/index.html
 - mobile_message_generation_artifacts_core  -->  https://application-ui-ux.github.io/mobile_message_generation_artifacts_core/target/site/index.html
-- mobile_catkin_gradle_plugins  -->  https://application-ui-ux.github.io/mobile_catkin_gradle_plugins /target/site/index.html
+- mobile_catkin_gradle_plugins  -->  https://application-ui-ux.github.io/mobile_catkin_gradle_plugins/target/site/index.html
 - rosmobile_core -->
 - android_core -->
 
