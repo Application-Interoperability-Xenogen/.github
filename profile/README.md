@@ -1,5 +1,5 @@
 # Organization Website
-- https://application-ui-ux.github.io/
+https://application-ui-ux.github.io/
 
 # Information Organization
 - Public Api / Sdk / Packages / Library limited information on usability and installation will be on organization websites
