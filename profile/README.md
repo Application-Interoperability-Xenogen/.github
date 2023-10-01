@@ -12,6 +12,9 @@
 - None Published research will only have demos on company website
 
 
+# 👩‍💻 Stable Versions
+- Current Organization will have stable versions of https://github.com/Robotics-Sensors public repository
+  
 ## HealthCare, Robot Control, AR, Applications, Mobile Apps
 
 
@@ -44,9 +47,9 @@ ROS-Robotic Control repositories packages are published in this organization and
 
 # 🍿 Syncs Organization 
 
-- https://github.com/Robotics-Sensors/
-- https://github.com/Artificial-Intelligence-Computer-Vision/
-- https://github.com/Algorithm-Model-Research/
+- https://github.com/Robotics-Sensors
+- https://github.com/Artificial-Intelligence-Computer-Vision
+- https://github.com/Algorithm-Model-Research
 
 
 <!--
