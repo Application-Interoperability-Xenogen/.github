@@ -13,7 +13,7 @@
 
 
 # 👩‍💻 Stable Versions
-- Current Organization will have stable versions of https://github.com/Robotics-Sensors public repository
+- Current Organization will have stable versions of repository in https://github.com/Robotics-Sensor
   
 ## HealthCare, Robot Control, AR, Applications, Mobile Apps
 
