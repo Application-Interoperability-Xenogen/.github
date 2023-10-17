@@ -27,11 +27,11 @@
 
 ROS-Robotic Control repositories packages are published in this organization and the primary goal is to display robot information and control robot in an android device or other device without needing a computer
 
-- mobile_catkin_modules_build_development_tools  -->  https://application-ui-ux.github.io/mobile_catkin_modules_build_development_tools/
-- mobile_message_service_generator  -->  https://application-ui-ux.github.io/mobile_message_service_generator/
-- mobile_message_generation_artifacts_core  -->  https://application-ui-ux.github.io/mobile_message_generation_artifacts_core/
-- mobile_catkin_gradle_plugins  -->  https://application-ui-ux.github.io/mobile_catkin_gradle_plugins/
-- mobile_implementation_core --> https://application-ui-ux.github.io/mobile_implementation_core/
+- mobile_catkin_modules_build_development_tools  -->  https://application-ui-ux.github.io/mobile_catkin_modules_build_development_tools
+- mobile_message_service_generator  -->  https://application-ui-ux.github.io/mobile_message_service_generator
+- mobile_message_generation_artifacts_core  -->  https://application-ui-ux.github.io/mobile_message_generation_artifacts_core
+- mobile_catkin_gradle_plugins  -->  https://application-ui-ux.github.io/mobile_catkin_gradle_plugins
+- mobile_implementation_core --> https://application-ui-ux.github.io/mobile_implementation_core
 - android_core -->
 
 
