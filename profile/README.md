@@ -1,6 +1,6 @@
 [![Website](https://img.shields.io/badge/Visit%20our-Website-0099cc?style=for-the-badge)](https://https://application-ui-ux.github.io)
 [![Discord](https://img.shields.io/badge/Join%20our-Discord-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/Yc72nd4w)
-[![Sponsor](https://img.shields.io/badge/Sponsor-Algorithm%20Model%20Research-blue?style=for-the-badge&logo=github)](https://github.com/sponsors/Application-UI-UX)
+[![Sponsor](https://img.shields.io/badge/Sponsor-Application%20UI%20UX-blue?style=for-the-badge&logo=github)](https://github.com/sponsors/Application-UI-UX)
 
 # 🧙 Organization Website
 - https://application-ui-ux.github.io
