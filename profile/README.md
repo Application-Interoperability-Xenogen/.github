@@ -1,7 +1,7 @@
 [![Website](https://img.shields.io/badge/Visit%20our-Website-0099cc?style=for-the-badge)](https://https://application-ui-ux.github.io)
 [![Discord](https://img.shields.io/badge/Join%20our-Discord-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/Yc72nd4w)
 [![Sponsor](https://img.shields.io/badge/Sponsor-Application%20UI%20UX%20Research-red?style=for-the-badge&logo=github)](https://github.com/sponsors/Application-UI-UX)
-[![Sponsor](https://img.shields.io/badge/Linkedin-Organization-green?style=for-the-badge)](https://www.linkedin.com/company/bellande-algorithm-model-research-innovation-center)
+[![Sponsor](https://img.shields.io/badge/Linkedin-Organization-green?style=for-the-badge)](https://www.linkedin.com/company/bellande-application-ui-ux-research-innovation-center)
 
 # 📫 Director & Founder & Owner of AUR Organization
 - **Ronaldson Bellande**
