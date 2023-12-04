@@ -2,6 +2,7 @@
 [![Discord](https://img.shields.io/badge/Join%20our-Discord-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/9xmVPXEnSK)
 [![Sponsor](https://img.shields.io/badge/Sponsor-Application%20UI%20UX%20Research-red?style=for-the-badge&logo=github)](https://github.com/sponsors/Application-UI-UX)
 [![Sponsor](https://img.shields.io/badge/Linkedin-Organization-green?style=for-the-badge)](https://www.linkedin.com/company/bellande-application-ui-ux-research-innovation-center)
+[![Youtube](https://img.shields.io/badge/YouTube-Organization-white?style=for-the-badge)](https://www.youtube.com/channel/UCgsuL3k0CBiy4Rh8PihHyAA)
 
 # 📫 Director & Founder & Owner of BAI&XRI Center Organization
 - **Ronaldson Bellande**
