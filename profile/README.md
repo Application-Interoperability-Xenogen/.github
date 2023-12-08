@@ -14,7 +14,7 @@
 # 🌱 Discord Community
 - [![Discord Community](https://img.shields.io/badge/Join%20Our-Discord-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/9xmVPXEnSK)
 
-# 🌱 Team/Community Contribute
+# ✨ Team/Community Contribute
 - [![Team/Community Contribute](https://img.shields.io/badge/Team/Community-Contribute-0099cc?style=for-the-badge)](https://github.com/Application-UI-UX/application_ui_ux_contributor)
 
 # 🙋‍♀️ Information Organization
