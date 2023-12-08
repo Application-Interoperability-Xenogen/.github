@@ -14,6 +14,9 @@
 # 🌱 Discord Community
 - [![Discord Community](https://img.shields.io/badge/Join%20Our-Discord-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/9xmVPXEnSK)
 
+# 🌱 Team/Community Contribute
+- [![Team/Community Contribute](https://img.shields.io/badge/Team/Community-Contribute-0099cc?style=for-the-badge)](https://github.com/Application-UI-UX/application_ui_ux_contributor)
+
 # 🙋‍♀️ Information Organization
 - **Public Resources:** Limited information on Public API, SDK, Packages, and Library usability and installation will be available on our [organization's website](https://application-ui-ux.github.io).
 - **Private Resources:** Comprehensive information on Private Application, Architecture, Automation, API, SDK, Packages, Library, and Designs usability and installation will be accessible on our company website.
@@ -22,7 +25,6 @@
 # 🌈 Research
 - Research related to this organization will be available in research papers published by Ronaldson Bellande.
 - Non-published research will showcase demos on our company website.
-
 --------------------------------------------------------------------------------------------------------
 
 ## ⚡ Research Domains in ROS-Robotic Control
@@ -82,4 +84,3 @@ Explore our ongoing research domains, where we focus on advancing robotic contro
 - [![Artificial Intelligence Computer Vision](https://img.shields.io/badge/Artificial%20Intelligence%20Computer%20Vision-Explore-0099cc?style=for-the-badge)](https://github.com/Artificial-Intelligence-Computer-Vision)
 
 Feel free to immerse yourself in the world of innovation and discovery with Bellande Application UI/UX Research Innovations Center! 🚀✨
-
