@@ -4,9 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-Organization-green?style=for-the-badge)](https://www.linkedin.com/company/bellande-application-ui-ux-research-innovation-center)
 [![Youtube](https://img.shields.io/badge/YouTube-Organization-white?style=for-the-badge)](https://www.youtube.com/channel/UCgsuL3k0CBiy4Rh8PihHyAA)
 
-# 📫 Director & Founder & Owner of BAI&XRI Center Organization
-- **Ronaldson Bellande**
-- **ronaldsonbellande@gmail.com**
+# 📫 Meet Ronaldson Bellande, Director & Founder & Owner of BAI&XRI Center Organization
+- 📧 **Email:** ronaldsonbellande@gmail.com
 
 # 🧙 Organization Website
 - [![Organization Website](https://img.shields.io/badge/Explore%20Our-Website-0099cc?style=for-the-badge)](https://application-ui-ux.github.io)
