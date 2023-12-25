@@ -8,7 +8,7 @@
 - 📧 **Email:** ronaldsonbellande@gmail.com
 
 # 🧰  Strategic Insights: Inaugural Showcase of Bellande Application UI/UX Research Innovations Center
-- [![Watch the video](https://img.youtube.com/vi/Cu60VOqLMkg/0.jpg)](https://www.youtube.com/watch?v=Cu60VOqLMkg)
+  [![Watch the video](https://img.youtube.com/vi/Cu60VOqLMkg/0.jpg)](https://www.youtube.com/watch?v=Cu60VOqLMkg)
 
 # 🧙 Organization Website
 - [![Organization Website](https://img.shields.io/badge/Explore%20Our-Website-0099cc?style=for-the-badge)](https://application-ui-ux.github.io)
