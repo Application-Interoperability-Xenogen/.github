@@ -32,6 +32,11 @@
 - [![Team/Community Contribute](https://img.shields.io/badge/Team/Community-Contribute-0099cc?style=for-the-badge)](https://github.com/Application-UI-UX/bellande_application_ui_ux_research_innovations_center_contributor)
 - Comprehensive instructions are available within the repository, guiding you on how to identify the project or research assignment you wish to contribute to. These instructions outline the steps for effective and meaningful contributions.
 
+## 🎓 Organization Classroom
+- [![Organization Classroom](https://img.shields.io/badge/Organization-Classroom-00cc66?style=for-the-badge)](https://classroom.github.com/classrooms/94992622-bellande-application-ux-ui-research-innovations-center-classroom)
+- Individuals who are not affiliated as clients, companies, organizations involved in procurement, integral members of the organizational team or contributor contributing to its goals daily are cordially invited to participate in the organization's educational initiatives on how to contribute to the organization more effectively.
+
+
 # 🙋‍♀️ Information Organization
 - **Public Resources:** Limited information on Public API, SDK, Packages, and Library usability and installation will be available on our [organization's website](https://application-ui-ux.github.io).
 - **Private Resources:** Comprehensive information on Private Application, Architecture, Automation, API, SDK, Packages, Library, and Designs usability and installation will be accessible on our company website.
