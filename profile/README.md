@@ -18,6 +18,7 @@
 
 # 📫 Meet Ronaldson Bellande, President & Executive & Director & Founder & Owner of BAI&XRI Center Organization
 - 📧 **Email:** ronaldsonbellande@gmail.com
+- 📧 Organization Email: ronaldsonbellande@bellande-application-ui-ux-research-innovation-center.org
 
 # 🧰  Strategic Insights: Inaugural Showcase of Bellande Application UI/UX Research Innovations Center Video
   [![Watch the video](https://img.youtube.com/vi/Cu60VOqLMkg/0.jpg)](https://www.youtube.com/watch?v=Cu60VOqLMkg)
