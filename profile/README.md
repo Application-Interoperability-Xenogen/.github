@@ -48,10 +48,12 @@
 # 🌈 Research
 - Research related to this organization will be available in research papers published by Ronaldson Bellande.
 - Non-published research will showcase demos on our company website.
+
+# 💼 Research
+- Researchers from all countries, companies, and laboratories, are encouraged to collaborate and utilize our resources to advance science, technology, engineering, and mathematics. We welcome your insights, expertise, and contributions!
 --------------------------------------------------------------------------------------------------------
 
 ## ⚡ Research Domains in ROS-Robotic Control
-
 Explore our ongoing research domains, where we focus on advancing robotic control systems using ROS (Robot Operating System). Our primary goal is to provide seamless robot information display and control on Android devices and other platforms without the need for a computer.
 
 ## Robots Controller 
