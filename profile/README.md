@@ -21,6 +21,7 @@
 ## Bellande Application Interoperability Xenogen Research Innovation Center Licensing
 - https://github.com/Application-Interoperability-Xenogen/LICENSING
 - https://github.com/Application-Interoperability-Xenogen/.github
+- https://github.com/Application-Interoperability-Xenogen/CODE_OF_CONDUCT
 
 # 📫 Meet Ronaldson Bellande, President & Executive & Director & Founder & Owner of BAI&XRI Center Organization
 - 📧 **Personal Email:** ronaldsonbellande@gmail.com
