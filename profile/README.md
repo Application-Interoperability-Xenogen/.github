@@ -116,11 +116,14 @@ Explore our ongoing research domains, where we focus on advancing robotic contro
 - [![Mobile Apps](https://img.shields.io/badge/Mobile%20Apps-Explore-0099cc?style=for-the-badge)](#)
   - Designing and implementing mobile applications to facilitate seamless control and interaction with robotic systems.
 
-
 ## 📈 Organization Stats: [![Profile Views](https://komarev.com/ghpvc/?username=Application-Interoperability-Xenogen&label=Profile+Views&color=2e8b57&style=flat)](https://github.com/Application-UI-UX)
 
-# 🍿 Synced Organizations
+# 🍿 (Bellande Technologies Git) Explore Our Synced Organizations 
+- [![Robotics Sensors](https://img.shields.io/badge/Robotics%20Sensors-Explore-0099cc?style=for-the-badge)](https://git.bellande-technologies.com/BRSRI)
+- [![Architecture Mechanism Research](https://img.shields.io/badge/Architecture%20Mechanism-Explore-0099cc?style=for-the-badge)](https://git.bellande-technologies.com/BAMRI)
+- [![Artificial Intelligence Computer Vision](https://img.shields.io/badge/Artificial%20Intelligence%20Computer%20Vision-Explore-0099cc?style=for-the-badge)](https://git.bellande-technologies.com/BAICVRI)
 
+# 🍿 Synced Organizations
 - [![Robotics Sensors](https://img.shields.io/badge/Robotics%20Sensors-Explore-0099cc?style=for-the-badge)](https://github.com/Robotics-Sensors)
 - [![Architecture Mechanism Research](https://img.shields.io/badge/Architecture%20Mechanism-Explore-0099cc?style=for-the-badge)](https://github.com/Architecture-Mechanism)
 - [![Artificial Intelligence Computer Vision](https://img.shields.io/badge/Artificial%20Intelligence%20Computer%20Vision-Explore-0099cc?style=for-the-badge)](https://github.com/Artificial-Intelligence-Computer-Vision)
