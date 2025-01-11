@@ -25,14 +25,18 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-Organization-green?style=for-the-badge)](https://www.linkedin.com/company/bellande-application-ui-ux-research-innovation-center)
 [![Youtube](https://img.shields.io/badge/YouTube-Organization-white?style=for-the-badge)](https://www.youtube.com/channel/UCgsuL3k0CBiy4Rh8PihHyAA)
 
-## (Bellande Technologies Git) Bellande Application Interoperability Xenogen Research Innovation Center Copyright, Licensing, Code of Conduct
+## (Bellande Technologies Git) Bellande Application Interoperability Xenogen Research Innovation Center Copyright, Trademark, Certification, Licensing, Code of Conduct
 - https://git.bellande-technologies.com/BAIXRI/COPYRIGHT
+- https://git.bellande-technologies.com/BAIXRI/TRADEMARK
+- https://git.bellande-technologies.com/BAIXRI/CERTIFICATION
 - https://git.bellande-technologies.com/BAIXRI/LICENSING
 - https://git.bellande-technologies.com/BAIXRI/.profile
 - https://git.bellande-technologies.com/BAIXRI/CODE_OF_CONDUCT
 
-## (Github) Bellande Application Interoperability Xenogen Research Innovation Center Copyright, Licensing, Code of Conduct
+## (Github) Bellande Application Interoperability Xenogen Research Innovation Center Copyright, Trademark, Certification, Licensing, Code of Conduct
 - https://github.com/Application-Interoperability-Xenogen/COPYRIGHT
+- https://github.com/Application-Interoperability-Xenogen/TRADEMARK
+- https://github.com/Application-Interoperability-Xenogen/CERTIFICATION
 - https://github.com/Application-Interoperability-Xenogen/LICENSING
 - https://github.com/Application-Interoperability-Xenogen/.github
 - https://github.com/Application-Interoperability-Xenogen/CODE_OF_CONDUCT
