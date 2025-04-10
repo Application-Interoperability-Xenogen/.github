@@ -53,9 +53,25 @@
 - https://github.com/Application-Interoperability-Xenogen/.github
 - https://github.com/Application-Interoperability-Xenogen/CODE_OF_CONDUCT
 
-# 📫 Meet Ronaldson Bellande, President & Executive & Director & Founder & Owner of BAI&XRI Center Organization
+## (Gitlab) Bellande Application Interoperability Xenogen Research Innovation Center Copyright, Trademark, Certification, Licensing, Code of Conduct
+- https://gitlab.com/Bellande-Application-Interoperability-Xenogen-Research-Innovations-Center/COPYRIGHT
+- https://gitlab.com/Bellande-Application-Interoperability-Xenogen-Research-Innovations-Center/TRADEMARK
+- https://gitlab.com/Bellande-Application-Interoperability-Xenogen-Research-Innovations-Center/CERTIFICATION
+- https://gitlab.com/Bellande-Application-Interoperability-Xenogen-Research-Innovations-Center/LICENSING
+- https://gitlab.com/Bellande-Application-Interoperability-Xenogen-Research-Innovations-Center/.gitlab-profile
+- https://gitlab.com/Bellande-Application-Interoperability-Xenogen-Research-Innovations-Center/CODE_OF_CONDUCT
+
+## (Bitbucket) Bellande Application Interoperability Xenogen Research Innovation Center Copyright, Trademark, Certification, Licensing, Code of Conduct
+- https://bitbucket.org/Bellande-Application-Interoperability-Xenogen/COPYRIGHT
+- https://bitbucket.org/Bellande-Application-Interoperability-Xenogen/TRADEMARK
+- https://bitbucket.org/Bellande-Application-Interoperability-Xenogen/CERTIFICATION
+- https://bitbucket.org/Bellande-Application-Interoperability-Xenogen/LICENSING
+- https://bitbucket.org/Bellande-Application-Interoperability-Xenogen/.profile
+- https://bitbucket.org/Bellande-Application-Interoperability-Xenogen/CODE_OF_CONDUCT
+
+# 📫 Meet Ronaldson Bellande, President & Executive & Director & Founder & Owner of BAIXRI Center Organization
 - 📧 **Personal Email:** ronaldsonbellande@gmail.com
-- 📧 **Organization Email:** ronaldsonbellande@bellande-application-interoperability-xenogen-research-innovation-center.org
+- 📧 **Organization Email:** ronaldsonbellande@bellande-application-ix-research-innovation-center.org
 
 # 🧰  Strategic Insights: Inaugural Showcase of Bellande Application UI/UX Research Innovations Center Video
   [![Watch the video](https://img.youtube.com/vi/Cu60VOqLMkg/0.jpg)](https://www.youtube.com/watch?v=Cu60VOqLMkg)
@@ -145,6 +161,16 @@ Explore our ongoing research domains, where we focus on advancing robotic contro
 - [![Robotics Sensors](https://img.shields.io/badge/Robotics%20Sensors-Explore-0099cc?style=for-the-badge)](https://github.com/Robotics-Sensors)
 - [![Architecture Mechanism Research](https://img.shields.io/badge/Architecture%20Mechanism-Explore-0099cc?style=for-the-badge)](https://github.com/Architecture-Mechanism)
 - [![Artificial Intelligence Computer Vision](https://img.shields.io/badge/Artificial%20Intelligence%20Computer%20Vision-Explore-0099cc?style=for-the-badge)](https://github.com/Artificial-Intelligence-Computer-Vision)
+
+# 🍿 (Gitlab) Explore Our Synced Organizations
+- [![Robotics Sensors](https://img.shields.io/badge/Robotics%20Sensors-Explore-0099cc?style=for-the-badge)](https://gitlab.com/Bellande-Robotics-Sensors-Research-Innovation-Center)
+- [![Architecture Mechanism Research](https://img.shields.io/badge/Architecture%20Mechanism-Explore-0099cc?style=for-the-badge)](https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation-Center)
+- [![Artificial Intelligence Computer Vision](https://img.shields.io/badge/Artificial%20Intelligence%20Computer%20Vision-Explore-0099cc?style=for-the-badge)](https://gitlab.com/Bellande-Artificial-Intelligence-Computer-Vision-Research-Innovation-Center)
+
+# 🍿 (Bitbucket) Explore Our Synced Organizations
+- [![Robotics Sensors](https://img.shields.io/badge/Robotics%20Sensors-Explore-0099cc?style=for-the-badge)](https://bitbucket.org/Bellande-Robotics-Sensors)
+- [![Architecture Mechanism Research](https://img.shields.io/badge/Architecture%20Mechanism-Explore-0099cc?style=for-the-badge)](https://bitbucket.org/Bellande-Architecture-Mechanism)
+- [![Artificial Intelligence Computer Vision](https://img.shields.io/badge/Artificial%20Intelligence%20Computer%20Vision-Explore-0099cc?style=for-the-badge)](https://bitbucket.org/Bellande-Artificial-Intelligence-Computer-Vision)
 
 Feel free to immerse yourself in the world of innovation and discovery with Bellande Application Interoperability Xenogen Research Innovations Center! 🚀✨
 
